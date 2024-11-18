@@ -147,7 +147,7 @@ These are my main contributions:
       title: "ClubMemo",
       techStack: ["TypeScript", "React", "Node.js", "MongoDB", "AI & LLMs"],
       description:
-        "App that leverages AI and scientifically-backed learning techniques to generate a personalized interactive course from a PDF with your notes.",
+        "AI app that transforms any PDF into a personalized interactive course based on science-proven effective study techniques.",
       logo: ParabolLogo,
       link: {
         label: "ClubMemo",
