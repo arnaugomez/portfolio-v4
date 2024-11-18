@@ -249,16 +249,6 @@ These are my main contributions:
       },
     },
     {
-      title: "Mindbly",
-      techStack: ["Online Learning", "Web App"],
-      description: "Online learning platform for business coaches",
-      logo: ConsultlyLogo,
-      link: {
-        label: "Mindbly",
-        href: "https://www.mindbly.com",
-      },
-    },
-    {
       title: "C Compiler",
       techStack: ["Compilers", "Java"],
       description:
