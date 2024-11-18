@@ -183,6 +183,7 @@ These are my main contributions:
         href: "https://www.nextlane.com/es/",
       },
     },
+    /*
     {
       title: "Eterlast",
       techStack: ["Crypto", "Web3", "Ethereum", "NFTs"],
@@ -204,6 +205,7 @@ These are my main contributions:
         href: "https://www.ambarpartners.com",
       },
     },
+    */
     {
       title: "Finnovating",
       techStack: ["Web App", "Social Network", "FinTech"],
