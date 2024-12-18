@@ -13,9 +13,9 @@ export const RESUME_DATA = {
   initials: "AG",
   location: "Barcelona, Spain",
   locationLink: "https://www.google.com/maps/place/Barcelona",
-  about: "Frontend Developer | Web, desktop & mobile",
+  about: "Software Engineer | Web, desktop & mobile",
   summary:
-    "For the past 6 years, I have helped large companies like Amazon build modern web and mobile apps that perform at scale. My focus is on TypeScript, React and JavaScript UI frameworks, with a strong emphasis on performance, QA and scalability.",
+    "For the past 6 years, I have helped large companies like Amazon build modern web and mobile apps that perform at scale. My focus is on TypeScript and React, with an emphasis on performance, QA and scalability. I am currently working on AI agents with LangChain.",
   avatarUrl: "https://avatars.githubusercontent.com/u/66358043?v=4",
   personalWebsiteUrl: "https://www.arnaugomez.com",
   contact: {
